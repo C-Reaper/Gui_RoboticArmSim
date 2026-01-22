@@ -3,6 +3,7 @@
 
 #include "/home/codeleaded/System/Static/Library/Lib3D_Mathlib.h"
 #include "/home/codeleaded/System/Static/Library/Lib3D_Mesh.h"
+#include "/home/codeleaded/System/Static/Library/Lib3D_World3D.h"
 #include "/home/codeleaded/System/Static/Library/Lib3D_Bone.h"
 
 typedef struct RoboticArm{
